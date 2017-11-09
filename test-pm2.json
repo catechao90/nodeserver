@@ -1,0 +1,5 @@
+{
+  "name" : "middleware",
+  "script" : "bin/www",
+  "args":"mock"
+}
